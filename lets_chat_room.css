@@ -1,23 +1,21 @@
-body{
-position: center;
-    background: greenyellow;
-}
-html, body
-{
-  height: 100%;
-  margin: 0;
+body {
+  background-color: blueviolet;
+  
 }
 
-body
-{
-background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73aa, #006494);
+.header {
+  color: white;
+  font-family: "Yeon Sung";
+  font-size: 45px;
+  letter-spacing: 10px;
+  margin-top: 80px;
 }
+.header img {
+  width: 80px;
+  margin-left: -15px;
+}
+.logo  {
 
-.header
-{
-	color: white;font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
-}
-.header img
-{
-	width: 80px;margin-left: -15px;
+  width: 20;
+  height: 20;
 }
